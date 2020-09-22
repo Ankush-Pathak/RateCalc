@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RateCalc</string>
+    <string name="itemName">Item Name:</string>
+    <string name="hSNCode">"HSN Code: "</string>
+    <string name="gst">"GST: "</string>
+    <string name="amount">"Amount: "</string>
+    <string name="rate">"Rate: "</string>
+</resources>
